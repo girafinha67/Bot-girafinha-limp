@@ -1,0 +1,1961 @@
+{
+  "exemplo_id_mensagem": {
+    "valor": "2,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "id1",
+      "id2"
+    ],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "4x4",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "4x4",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "3 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "4x4",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "2 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "4x4",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Nisto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Nisto",
+    "tipo": "4x4",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "3 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Infinito",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "tipo": "2x2",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "time": "1 emu"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "babirometi",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "formato": "2X2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "selectedWinner": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "selectedWinner": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "selectedWinner": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "selectedWinner": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "teste",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "aaaa",
+    "formato": "aaa",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "A",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "selectedWinner": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "selectedWinner": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI",
+    "selectedWinner": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [
+      "SEU_ID_AQUI",
+      "SEU_ID_AQUI"
+    ],
+    "status": "iniciada",
+    "id_mediador": "SEU_ID_AQUI"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "Mobile",
+    "tipo": "Gel Normal",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "misto",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "100,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "50,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "20,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "10,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "5,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "2,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "SEU_ID_AQUI": {
+    "valor": "1,90",
+    "modo": "mobile",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  }
+}

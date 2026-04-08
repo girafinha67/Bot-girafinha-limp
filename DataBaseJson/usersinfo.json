@@ -1,0 +1,16 @@
+{
+  "SEU_ID_AQUI": {
+    "id": "SEU_ID_AQUI",
+    "vitorias": 3,
+    "derrotas": 2,
+    "pontos": 15,
+    "partidas": 5
+  },
+  "SEU_ID_AQUI": {
+    "id": "SEU_ID_AQUI",
+    "vitorias": 2,
+    "derrotas": 3,
+    "pontos": 10,
+    "partidas": 5
+  }
+}

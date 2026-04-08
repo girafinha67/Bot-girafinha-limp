@@ -1,0 +1,13 @@
+# arquivos sensíveis
+.env
+config.json
+commands/config/config.json
+
+# node
+node_modules/
+
+# logs
+*.log
+
+# sistema
+.DS_Store

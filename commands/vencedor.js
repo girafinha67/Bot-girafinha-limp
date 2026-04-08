@@ -2,7 +2,7 @@ const { PermissionsBitField, EmbedBuilder, ActionRowBuilder, ButtonBuilder, Butt
 const fs = require('fs');
 const path = require('path');
 const emojis = require('../DataBaseJson/emojis.json');
-const { logManager } = require('./matchRoomCreator');
+const { logManager } = require('../events/matchRoomCreator')
 
 // --- Caminhos ---
 const filasDadosPath = path.join(__dirname, '../DataBaseJson/filasDados.json');
